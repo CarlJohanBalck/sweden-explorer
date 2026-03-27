@@ -1,4 +1,4 @@
-import { Place } from "../data/places";
+import { type Place } from "../data/places";
 
 interface Props {
   place: Place;
